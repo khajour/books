@@ -1,6 +1,19 @@
 # My Favorite Books
 This is a list of my favorite books, about technology, organizations and people 
 
+
+---
+
+### [Site Reliability Engineering: How Google Runs Production Systems](http://a.co/f3ESK0d)
+**by Betsy Beyer et al.**
+> In this collection of essays and articles, key members of Google’s Site Reliability Team explain how and why their commitment to the entire lifecycle has enabled the company to successfully build, deploy, monitor, and maintain some of the largest software systems in the world. You’ll learn the principles and practices that enable Google engineers to make systems more scalable, reliable, and efficient—lessons directly applicable to your organization.
+
+---
+
+### [How Google Works](http://a.co/eotXrpQ)
+**Eric Schmidt (Author)**
+> Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields. HOW GOOGLE WORKS is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company.
+
 ---
 
 ### [Cracking-Coding-Interview-6th-Programming](http://a.co/5AZYvu0)
@@ -49,18 +62,6 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 ### [Design Patterns: Elements of Reusable Object-Oriented Software](http://a.co/8I8eYdh) 
 **Erich Gamma (Author)**
 > Design Patterns is a modern classic in the literature of object-oriented development, offering timeless and elegant solutions to common problems in software design. It describes patterns for managing object creation, composing objects into larger structures, and coordinating control flow between objects
-
----
-
-### [Site Reliability Engineering: How Google Runs Production Systems](http://a.co/f3ESK0d)
-**by Betsy Beyer et al.**
-> In this collection of essays and articles, key members of Google’s Site Reliability Team explain how and why their commitment to the entire lifecycle has enabled the company to successfully build, deploy, monitor, and maintain some of the largest software systems in the world. You’ll learn the principles and practices that enable Google engineers to make systems more scalable, reliable, and efficient—lessons directly applicable to your organization.
-
----
-
-### [How Google Works](http://a.co/eotXrpQ)
-**Eric Schmidt (Author)***
-> Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields. HOW GOOGLE WORKS is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company.
 
 ---
 
