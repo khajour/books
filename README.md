@@ -1,5 +1,5 @@
 # My Favorite Books
-This is a list of my favorite books, about technology, people 
+This is a list of my favorite books, about technology, organization and people 
 
 ## Cracking-Coding-Interview-6th-Programming
 [amazon](https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850)
