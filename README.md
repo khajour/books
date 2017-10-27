@@ -2,6 +2,9 @@
 This is a list of my favorite books, about technology, organization and people 
 
 ## Cracking-Coding-Interview-6th-Programming
+by Gayle Laakmann McDowell  (Author)
+Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.
+
 [amazon](https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850)
  
 ### Software-Craftsmanship
