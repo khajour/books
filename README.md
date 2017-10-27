@@ -12,7 +12,7 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 **by Pete McBreen  (Author)**
 > Software Craftsmanship presents an alternative—a craft model that focuses on the people involved in commercial software development. This book illustrates that it is imperative to turn from the technology-for-its-own-sake model to one that is grounded in delivering value to customers. The author, Pete McBreen, presents a method to nurture mastery in the programmer, develop creative collaboration in small developer teams, and enhance communications with the customer. The end result—skilled developers who can create, extend, and enhance robust applications.
  
-###  [Phoenix-Project](http://a.co/fhARnb)
+###  [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win]( http://a.co/frYv9NW)
 **by Gene Kim (Author)**
 > A must-read for anyone wanting to transform their IT to enable the business to win. Told through an absorbing story that is impossible to put down, the authors teach the essential lessons in an accessible way. Every business leader and IT professional should read this book!" 
 
