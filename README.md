@@ -1,6 +1,7 @@
 # My Favorite Books
 This is a list of my favorite books, about technology, organizations and people 
 
+
 ## [Cracking-Coding-Interview-6th-Programming](http://a.co/5AZYvu0)
 **by Gayle Laakmann McDowell  (Author)**
 > 
@@ -21,11 +22,15 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 > Most startups fail. But many of those failures are preventable.  The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. 
 
  
-### Refactoring 
-[amazon](https://www.amazon.com/Refactoring-Improving-Existing-William-Hardcover/dp/B00M0OKW4S)
+### [Refactoring: Improving the Design of Existing Code](http://a.co/anlvLsk) 
+**by Martin Fowler (Author)**
+> Besides an introduction to refactoring, this handbook provides a catalog of dozens of tips for improving code. The best thing about Refactoring is its remarkably clear presentation, along with excellent nuts-and-bolts advice, from object expert Martin Fowler. 
+
  
-### Test-Driven-Development
-[amazon](https://www.amazon.com/Test-Driven-Development-Example-Paperback/dp/B00GOH8K2S)
+### [Test Driven Development: By Example](http://a.co/epG40jy)
+**Kent Beck (Author)**
+> Follows two TDD projects from start to finish, illustrating techniques programmers can use to increase the quality of their work. The examples are followed by references to the featured TDD patterns and refactorings. This book emphasises on agile methods and fast development strategies.
+
  
 ### The Rise of Robots 
 [amazon](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465059996)
