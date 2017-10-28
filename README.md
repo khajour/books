@@ -2,17 +2,27 @@
 This is a list of my favorite books, about technology, organizations and people 
 
 
----
-
-### [Site Reliability Engineering: How Google Runs Production Systems](http://a.co/f3ESK0d)
-**by Betsy Beyer et al.**
-> In this collection of essays and articles, key members of Google’s Site Reliability Team explain how and why their commitment to the entire lifecycle has enabled the company to successfully build, deploy, monitor, and maintain some of the largest software systems in the world. You’ll learn the principles and practices that enable Google engineers to make systems more scalable, reliable, and efficient—lessons directly applicable to your organization.
-
----
+ ### [Unlimited Power](http://a.co/8uHxPCV)
+  **by Anthony Robbins**
+ > Reveals the secrets of "neurolinguistic programming" and explains how to master both mind and body while gaining emotional and financial freedom and increasing self-confidence
+ 
+ ---
+ 
+### [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](http://a.co/ee0ctKO) 
+**Stephen R. Covey (Author)**
+> One of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators and parents— in short, millions of people of all ages and occupations.
+ 
+ ---
 
 ### [How Google Works](http://a.co/eotXrpQ)
 **Eric Schmidt (Author)**
 > Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields. HOW GOOGLE WORKS is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company.
+
+---
+
+### [Rise of the Robots: Technology and the Threat of a Jobless Future](http://a.co/7chlgsC) 
+**Martin Ford (Author)**
+> Rise of the Robots is]about as scary as the title suggests. It's not science fiction, but rather a vision (almost) of economic Armageddon.
 
 ---
 
@@ -23,6 +33,12 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 
 ---
  
+### [Site Reliability Engineering: How Google Runs Production Systems](http://a.co/f3ESK0d)
+**by Betsy Beyer et al.**
+> In this collection of essays and articles, key members of Google’s Site Reliability Team explain how and why their commitment to the entire lifecycle has enabled the company to successfully build, deploy, monitor, and maintain some of the largest software systems in the world. You’ll learn the principles and practices that enable Google engineers to make systems more scalable, reliable, and efficient—lessons directly applicable to your organization.
+
+---
+
 ### [Software Craftsmanship: The New Imperative](http://a.co/beDvSYh)
 **by Pete McBreen  (Author)**
 > Software Craftsmanship presents an alternative—a craft model that focuses on the people involved in commercial software development. This book illustrates that it is imperative to turn from the technology-for-its-own-sake model to one that is grounded in delivering value to customers. The author, Pete McBreen, presents a method to nurture mastery in the programmer, develop creative collaboration in small developer teams, and enhance communications with the customer. The end result—skilled developers who can create, extend, and enhance robust applications.
@@ -53,12 +69,6 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 
 ---
  
-### [Rise of the Robots: Technology and the Threat of a Jobless Future](http://a.co/7chlgsC) 
-**Martin Ford (Author)**
-> Rise of the Robots is]about as scary as the title suggests. It's not science fiction, but rather a vision (almost) of economic Armageddon.
-
----
-
 ### [Design Patterns: Elements of Reusable Object-Oriented Software](http://a.co/8I8eYdh) 
 **Erich Gamma (Author)**
 > Design Patterns is a modern classic in the literature of object-oriented development, offering timeless and elegant solutions to common problems in software design. It describes patterns for managing object creation, composing objects into larger structures, and coordinating control flow between objects
@@ -71,31 +81,19 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 
 ---
  
-### [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](http://a.co/ee0ctKO) 
-**Stephen R. Covey (Author)**
-> One of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators and parents— in short, millions of people of all ages and occupations.
- 
- ---
- 
- ## [The Five Dysfunctions of a Team: A Leadership Fable](http://a.co/jjTcwwb)
+### [The Five Dysfunctions of a Team: A Leadership Fable](http://a.co/jjTcwwb)
  **by Patrick Lencioni**
  > Throughout the story, Lencioni reveals the five dysfunctions which go to the very heart of why teams even the best ones-often struggle. He outlines a powerful model and actionable steps that can be used to overcome these common hurdles and build a cohesive, effective team.
  
  ---
  
- ## [How We Learn: The Surprising Truth About When, Where, and Why It Happens](http://a.co/5cv90T8)
+ ### [How We Learn: The Surprising Truth About When, Where, and Why It Happens](http://a.co/5cv90T8)
  **Benedict Carey (Author)**
  > But what if almost everything we were told about learning is wrong? And what if there was a way to achieve more with less effort? In How We Learn, award-winning science reporter Benedict Carey sifts through decades of education research and landmark studies to uncover the truth about how our brains absorb and retain information
  
  ---
  
- ## [by Anthony Robbins](http://a.co/8uHxPCV)
-  **by Anthony Robbins**
- > Reveals the secrets of "neurolinguistic programming" and explains how to master both mind and body while gaining emotional and financial freedom and increasing self-confidence
- 
- ---
- 
- # []()
+ ### []()
  ---
   ****
  > 
