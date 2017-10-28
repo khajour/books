@@ -75,4 +75,30 @@ Cracking the Coding Interview, 6th Edition is here to help you through this proc
 **Stephen R. Covey (Author)**
 > One of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for 25 years. It has transformed the lives of Presidents and CEOs, educators and parents— in short, millions of people of all ages and occupations.
  
+ ---
+ 
+ ## [The Five Dysfunctions of a Team: A Leadership Fable](http://a.co/jjTcwwb)
+ **by Patrick Lencioni**
+ > Throughout the story, Lencioni reveals the five dysfunctions which go to the very heart of why teams even the best ones-often struggle. He outlines a powerful model and actionable steps that can be used to overcome these common hurdles and build a cohesive, effective team.
+ 
+ ---
+ 
+ ## [How We Learn: The Surprising Truth About When, Where, and Why It Happens](http://a.co/5cv90T8)
+ **Benedict Carey (Author)**
+ > But what if almost everything we were told about learning is wrong? And what if there was a way to achieve more with less effort? In How We Learn, award-winning science reporter Benedict Carey sifts through decades of education research and landmark studies to uncover the truth about how our brains absorb and retain information
+ 
+ ---
+ 
+ ## [by Anthony Robbins](http://a.co/8uHxPCV)
+  **by Anthony Robbins**
+ > Reveals the secrets of "neurolinguistic programming" and explains how to master both mind and body while gaining emotional and financial freedom and increasing self-confidence
+ 
+ ---
+ 
+ # []()
+ ---
+  ****
+ > 
+
+ 
  
