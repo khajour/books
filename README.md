@@ -32,6 +32,12 @@ This is a list of my favorite books, about technology, organizations and people
 Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.
 
 ---
+
+### [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://www.amazon.fr/dp/0984782818/ref=cm_sw_em_r_mt_dp_U_M2NuDbGA7EJST)
+**by Gayle Laakmann McDowell  (Author)**
+> 
+Cracking the PM Interview is a comprehensive book about landing a product management role in a startup or bigger tech company. Learn how the ambiguously-named "PM" (product manager / program manager) role varies across companies, what experience you need, how to make your existing experience translate, what a great PM resume and cover letter look like, and finally, how to master the interview: estimation questions, behavioral questions, case questions, product questions, technical questions, and the super important "pitch."
+---
  
 ### [Site Reliability Engineering: How Google Runs Production Systems](http://a.co/f3ESK0d)
 **by Betsy Beyer et al.**
