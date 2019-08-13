@@ -1,12 +1,6 @@
 # My Favorite Books
 This is a list of my favorite books, about technology, organizations and people 
 
-
- ### [Unlimited Power](http://a.co/8uHxPCV)
-  **by Anthony Robbins**
- > Reveals the secrets of "neurolinguistic programming" and explains how to master both mind and body while gaining emotional and financial freedom and increasing self-confidence
- 
- ---
  
 ### [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](http://a.co/ee0ctKO) 
 **Stephen R. Covey (Author)**
@@ -28,15 +22,14 @@ This is a list of my favorite books, about technology, organizations and people
 
 ### [Cracking the Coding Interview: 189 Programming Questions and Solutions](http://a.co/5AZYvu0)
 **by Gayle Laakmann McDowell  (Author)**
-> 
-Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.
+> Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.
 
 ---
 
 ### [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://www.amazon.fr/dp/0984782818/ref=cm_sw_em_r_mt_dp_U_M2NuDbGA7EJST)
 **by Gayle Laakmann McDowell  (Author)**
-> 
-Cracking the PM Interview is a comprehensive book about landing a product management role in a startup or bigger tech company. Learn how the ambiguously-named "PM" (product manager / program manager) role varies across companies, what experience you need, how to make your existing experience translate, what a great PM resume and cover letter look like, and finally, how to master the interview: estimation questions, behavioral questions, case questions, product questions, technical questions, and the super important "pitch."
+> Cracking the PM Interview is a comprehensive book about landing a product management role in a startup or bigger tech company. Learn how the ambiguously-named "PM" (product manager / program manager) role varies across companies, what experience you need, how to make your existing experience translate, what a great PM resume and cover letter look like, and finally, how to master the interview: estimation questions, behavioral questions, case questions, product questions, technical questions, and the super important "pitch."
+
 ---
  
 ### [Site Reliability Engineering: How Google Runs Production Systems](http://a.co/f3ESK0d)
@@ -96,6 +89,12 @@ Cracking the PM Interview is a comprehensive book about landing a product manage
  ### [How We Learn: The Surprising Truth About When, Where, and Why It Happens](http://a.co/5cv90T8)
  **Benedict Carey (Author)**
  > But what if almost everything we were told about learning is wrong? And what if there was a way to achieve more with less effort? In How We Learn, award-winning science reporter Benedict Carey sifts through decades of education research and landmark studies to uncover the truth about how our brains absorb and retain information
+ 
+ ---
+ 
+ ### [Unlimited Power](http://a.co/8uHxPCV)
+  **by Anthony Robbins**
+ > Reveals the secrets of "neurolinguistic programming" and explains how to master both mind and body while gaining emotional and financial freedom and increasing self-confidence
  
  ---
  
